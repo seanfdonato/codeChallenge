@@ -1,0 +1,11 @@
+C:\Users\seanf\source\repos\CodesTest\CodesTest\obj\Debug\netcoreapp2.1\CodesTest.csprojAssemblyReference.cache
+C:\Users\seanf\source\repos\CodesTest\CodesTest\obj\Debug\netcoreapp2.1\CodesTest.csproj.CoreCompileInputs.cache
+C:\Users\seanf\source\repos\CodesTest\CodesTest\obj\Debug\netcoreapp2.1\CodesTest.AssemblyInfoInputs.cache
+C:\Users\seanf\source\repos\CodesTest\CodesTest\obj\Debug\netcoreapp2.1\CodesTest.AssemblyInfo.cs
+C:\Users\seanf\source\repos\CodesTest\CodesTest\bin\Debug\netcoreapp2.1\CodesTest.deps.json
+C:\Users\seanf\source\repos\CodesTest\CodesTest\bin\Debug\netcoreapp2.1\CodesTest.runtimeconfig.json
+C:\Users\seanf\source\repos\CodesTest\CodesTest\bin\Debug\netcoreapp2.1\CodesTest.runtimeconfig.dev.json
+C:\Users\seanf\source\repos\CodesTest\CodesTest\bin\Debug\netcoreapp2.1\CodesTest.dll
+C:\Users\seanf\source\repos\CodesTest\CodesTest\bin\Debug\netcoreapp2.1\CodesTest.pdb
+C:\Users\seanf\source\repos\CodesTest\CodesTest\obj\Debug\netcoreapp2.1\CodesTest.dll
+C:\Users\seanf\source\repos\CodesTest\CodesTest\obj\Debug\netcoreapp2.1\CodesTest.pdb
