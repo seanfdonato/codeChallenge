@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seanf\\source\\repos\\CodesTest\\CodesTest\\CodesTest.csproj",
+      "projectUniqueName": "C:\\Users\\seanf\\Documents\\GitHub\\codeChallenge\\JungleBook\\CodesTest\\CodesTest.csproj",
       "projectName": "CodesTest",
-      "projectPath": "C:\\Users\\seanf\\source\\repos\\CodesTest\\CodesTest\\CodesTest.csproj",
+      "projectPath": "C:\\Users\\seanf\\Documents\\GitHub\\codeChallenge\\JungleBook\\CodesTest\\CodesTest.csproj",
       "packagesPath": "C:\\Users\\seanf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seanf\\source\\repos\\CodesTest\\CodesTest\\obj\\",
+      "outputPath": "C:\\Users\\seanf\\Documents\\GitHub\\codeChallenge\\JungleBook\\CodesTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
