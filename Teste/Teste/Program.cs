@@ -148,5 +148,89 @@ namespace Teste
         }
 
     }
+    static void Main(string[] args)
+        {
+            //TextWriter textWriter = new StreamWriter(@System.Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
+
+            int n = 9;
+
+            int[] ar = { 10, 20, 20, 10, 10, 30, 50, 10, 20 };
+            int result = sockMerchant(n, ar);
+
+            Console.WriteLine(result);
+
+
+        }
+        // Complete the countingValleys function below.
+        static int countingValleys(int n, string s)
+        {
+            var count = 0;
+
+            for (int i = 0; i < s.Length; i++)
+            {
+
+            }
+
+            return count;
+            
+        }
+        static int sockMerchant(int n, int[] ar)
+        {
+            var x = ar.OrderBy(a => a).ToArray();
+            var count = 0;
+            for (int i = 0; i < x.Length; i++)
+            {
+                for (int j = i+1; j < x.Length; j++)
+                {
+                    if(x[i] == x[j])
+                    {
+                        count++;
+        
+                        i = j;
+
+                        break;
+                    }
+                }
+
+            }
+            return count;
+        }
+
+        static bool IsPalidromo(string p)
+        {
+
+            var x = p.Length - 1;
+            for (int i = 0; i < p.Length; i++)
+            {
+
+                if (p[i] != p[x])
+                {
+                    return false;
+                }
+                x--;
+            }
+            return true;
+        }
+
+        public static int SumOfEvenNumbers(int[] numbers)
+        {
+            int x = 0;
+            if (numbers == null)
+            {
+                var e = new Exception("Null object");
+                throw e;
+            }
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                if (numbers[i] % 2 == 0)
+                {
+
+                    x += numbers[i];
+                }
+            }
+            return x;
+
+        }
+    }
 
 }
